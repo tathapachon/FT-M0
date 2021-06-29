@@ -15,7 +15,8 @@ body {
 }
 
 div {
-    border: 4px solid black; height: 400px ; width: 400px;
+     height: 400px ; 
+     width: 400px;
     border-radius: 10px;
     background-color: rgb(245, 207, 220);
     float: left;
