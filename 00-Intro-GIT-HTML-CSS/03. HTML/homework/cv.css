@@ -1,0 +1,30 @@
+img {
+
+    height: 300px;
+    width: 200px;
+   
+}
+
+body {
+    background-color: white;
+    font-family: 'Roboto Mono', monospace;
+   
+    
+    
+	
+}
+
+div {
+    border: 4px solid black; height: 400px ; width: 400px;
+    border-radius: 10px;
+    background-color: rgb(245, 207, 220);
+    float: left;
+    margin: 10px;
+    
+    
+    
+   
+    
+    
+  
+}
