@@ -1,0 +1,6 @@
+conceptos
+
+For: Nos permite crear circuitos en los cuales podemos evaluar una condicion.
+`&&`: Nos permite evaluar dos condiciones juntas deben ser verdad
+`||`: Nos permite evaluar condiciones pero alguna puede ser verdad
+`!`: Nos permite negar una condicion
