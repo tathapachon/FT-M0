@@ -1,0 +1,8 @@
+Conceptos
+
+
+	* Variables : Son espacios a los cuales le podemos guardar datos
+	* Strings : Son cadenas de texto
+	* Funciones (argumentos, `return`): Las funciones nos permiten realizar un accion varias veces sin tener que reperilas  
+	* Declaraciones `if`: Nos permite comparar variables 
+	* Valores booleanos (`true`, `false`) : son Valores que nos permiten verificar afirmaciones
