@@ -1,0 +1,3 @@
+conceptos
+
+array:  son espacios los cuales almacenan varias caracteristicas que nos permiten acceder a ellos
