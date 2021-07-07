@@ -1,0 +1,7 @@
+Conceptos
+    * Objetos = son contenedores de caracteriticas 
+	* Propiedades = son caracteristicas de un objeto
+	* Métodos = nos permiten modificar las Propiedades de los objetos 
+	* Bucle `for…in`= nos permite recorrer los objetos 
+	* Notación de puntos = nos permite acceder a los valores en un objeto
+      notación de corchetes = nos permite acceder a los valores de manera especifica
