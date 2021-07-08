@@ -1,0 +1,4 @@
+Conceptos
+
+prototype: nos permite heredar valores de un objeto
+Constructors: Es el codigo que se ejecuta para inicializar un objeto
